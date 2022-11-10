@@ -9,9 +9,9 @@ hi, i'm L jay Bico i'm current a college student, but i passionate self-taught f
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [Bicoljay2@gmail.com](mailto:Bicoljay2@gmail.com )
-* 🧠  I'm learning js,react.js,css,html,c++,c#,sql,python.
 
-### Skills
+
+### I'm still learn
 
 
 <p align="left">
@@ -54,13 +54,6 @@ Html    1hrs      █▓░░░░░░░░░░░░░░░░░░�
 Other   30mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
-<!--END_SECTION:waka-->
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🌸  Completed 0 tasks today           
-✅  Completed 30 tasks so far           
-⏳  Longest streak is 2 days
 
 
 
